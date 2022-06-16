@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, and I will update my techpoli project using React in the next period.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=prs&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Apostolos172/Apostolos172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
