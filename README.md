@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React, and I will update my techpoli project using React in the next period.
+
 <!--
 **Apostolos172/Apostolos172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
