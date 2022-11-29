@@ -3,10 +3,13 @@
 <!--
 - 🌱 I’m currently learning React, and I will update my techpoli project using React in the next period.
 -->
+<!-- 
+<img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" /> -->
 
-<img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
+<img alt="Apostolos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
 <!-- prs -->
-<img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
+<!-- <img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" /> -->
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
 
 <!--
 **Apostolos172/Apostolos172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +44,10 @@ Here are some ideas to get you started:
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
+
+<!-- for debugging 
+<img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" /> 
+<img alt="Apostolos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
+<img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" /> 
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
+-->
