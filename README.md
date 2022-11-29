@@ -6,7 +6,7 @@
 
 <img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
 <!-- prs -->
-<img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=7" />
+<img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
 
 <!--
 **Apostolos172/Apostolos172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
