@@ -51,3 +51,9 @@ Here are some ideas to get you started:
 <img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" /> 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
 -->
+
+### Latest working repositories
+<div width="100%" align="center"><a href="https://github.com/Apostolos172/Advent-Of-Code-2022" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Apostolos172/JavaScript-Calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!-- [![Advent-Of-Code-2022](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022)](https://github.com/Apostolos172/Advent-Of-Code-2022)
+[![JavaScript-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator)](https://github.com/Apostolos172/JavaScript-Calculator) -->
+
