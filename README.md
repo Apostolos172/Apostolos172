@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Apostolos172/Advent-Of-Code-2022">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" />
 </a>
-<a href="https://github.com/Apostolos172/JavaScript-Calculator">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator&theme=gruvbox_light" />
+<a href="https://github.com/Apostolos172/freeCodeCamp-projects">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=freeCodeCamp-projects&theme=gruvbox_light" />
 </a>
 <!-- [![Advent-Of-Code-2022](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022)](https://github.com/Apostolos172/Advent-Of-Code-2022)
 [![JavaScript-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator)](https://github.com/Apostolos172/JavaScript-Calculator) -->
