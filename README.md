@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 ### Latest working repositories
 <a href="https://github.com/Apostolos172/Advent-Of-Code-2022">
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" />
-  <img align="left" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" /> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" /> -->
+  <img align="left" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/Apostolos172/freeCodeCamp-projects">
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=freeCodeCamp-projects&theme=gruvbox_light" /> -->
