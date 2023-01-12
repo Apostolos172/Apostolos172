@@ -3,14 +3,14 @@
 <!--
 - 🌱 I’m currently learning React, and I will update my techpoli project using React in the next period.
 -->
-<!-- 
-<img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" /> -->
 
-<img alt="Apostolos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
+<img alt="Apostolos's GitHub stats" src="https://github-readme-stats-apostolos172.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" />
+
+<!-- <img alt="Apostolos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Apostolos172&hide=stars,issues&count_private=true&theme=maroongold" /> -->
 <!-- prs -->
-<!-- <img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" /> -->
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
-
+<img alt="Top Langs" src="https://github-readme-stats-apostolos172.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
+<!-- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apostolos172&theme=panda&layout=compact&langs_count=10" />
+ -->
 <!--
 **Apostolos172/Apostolos172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,10 +54,12 @@ Here are some ideas to get you started:
 
 ### Latest working repositories
 <a href="https://github.com/Apostolos172/Advent-Of-Code-2022">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" />
+  <img align="left" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022&theme=gruvbox_light" /> -->
 </a>
 <a href="https://github.com/Apostolos172/freeCodeCamp-projects">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=freeCodeCamp-projects&theme=gruvbox_light" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=freeCodeCamp-projects&theme=gruvbox_light" /> -->
+  <img align="right" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=freeCodeCamp-projects&theme=gruvbox_light" />
 </a>
 <!-- [![Advent-Of-Code-2022](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022)](https://github.com/Apostolos172/Advent-Of-Code-2022)
 [![JavaScript-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator)](https://github.com/Apostolos172/JavaScript-Calculator) -->
