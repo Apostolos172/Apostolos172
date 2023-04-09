@@ -64,4 +64,10 @@ Here are some ideas to get you started:
 </a>
 <!-- [![Advent-Of-Code-2022](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=Advent-Of-Code-2022)](https://github.com/Apostolos172/Advent-Of-Code-2022)
 [![JavaScript-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Apostolos172&repo=JavaScript-Calculator)](https://github.com/Apostolos172/JavaScript-Calculator) -->
-
+<br/><br/><br/><br/><br/><br/><br/>
+<a href="https://github.com/Apostolos172/Guns-management">
+  <img align="left" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=Guns-management&theme=merko" />
+</a>
+<a href="https://github.com/Apostolos172/clean-eortologio">
+  <img align="right" src="https://github-readme-stats-apostolos172.vercel.app/api/pin/?username=Apostolos172&repo=clean-eortologio&theme=merko" />
+</a>
